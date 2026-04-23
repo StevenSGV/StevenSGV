@@ -5,7 +5,7 @@
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:stivengomez1058@gmail.com)
 
 ### About Me
-* I'm backend developer from Colombia CO focused on Java + Spring Boot
+* I'm backend developer from Colombia 🇨🇴 focused on Java + Spring Boot
 ### Tech Stack
 - **Languagues:** Java, SQL
 - **Frameworks:** Spring Boot
