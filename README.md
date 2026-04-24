@@ -8,7 +8,7 @@
 * I'm backend developer from Colombia 🇨🇴 focused on Java + Spring Boot
 ### Tech Stack
 - **Languagues:** Java, SQL
-- **Frameworks:** Spring Boot
+- **Frameworks:** Spring Framework
 - **Architecture:** Microservices, REST APIs
 - **Security:** JWT, OAuth2 and Role-Based Access Control (RBAC)
 - **Tools:** Git, Docker, Maven, Postman
